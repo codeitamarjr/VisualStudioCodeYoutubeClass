@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class MultiDimensionalArrays {
+public class LessonMultiDimensionalArrays {
 
     public static void main(String[] args) {
         
